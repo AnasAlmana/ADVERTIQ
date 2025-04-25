@@ -1,1 +1,1 @@
-"# Advertiq Legal Policies" 
+# Advertiq Legal Policies
